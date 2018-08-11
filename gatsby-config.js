@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'konsumer',
+    title: 'Degermark Consulting',
+    author: 'Måns Hellgren',
     authorLink: 'https://github.com/konsumer',
-    disqus: 'gatsby-starter-blog'// put your disqus ID here
+    disqus: ''// put your disqus ID here
   },
   plugins: [
     {

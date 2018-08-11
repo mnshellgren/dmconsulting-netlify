@@ -3,7 +3,7 @@
 
 //// bootswatch theme overrides
 // @import "node_modules/bootswatch/dist/cerulean/variables";
-@import "node_modules/bootswatch/dist/cosmo/variables";
+@import "node_modules/bootswatch/dist/minty/variables";
 // @import "node_modules/bootswatch/dist/cyborg/variables";
 // @import "node_modules/bootswatch/dist/darkly/variables";
 // @import "node_modules/bootswatch/dist/flatly/variables";
@@ -104,6 +104,6 @@
   flex-direction: row!important;
 
   & > * {
-    padding-left: 10px; 
+    padding-left: 10px;
   }
 }

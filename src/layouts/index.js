@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import graphql from 'graphql'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
+import Footer from '../components/footer.js'
 
 // code syntax-highlighting theme
 // feel free to change it to another one
@@ -32,12 +33,22 @@ const TemplateWrapper = ({ children, data }) => {
             )}
 
             <li className='nav-item'>
-              <Link to='/about' className='nav-link'>About</Link>
+              <Link to='/about' className='nav-link'>Om</Link>
+            </li>
+            <li className='nav-item'>
+              <Link to='/services' className='nav-link'>Tjänster</Link>
+            </li>
+            <li className='nav-item'>
+              <Link to='/books' className='nav-link'>Böcker</Link>
+            </li>
+            <li className='nav-item'>
+              <Link to='/contact' className='nav-link'>Kontakt</Link>
             </li>
           </ul>
         </Container>
       </div>
       <div className='pageContent'>{children()}</div>
+      <Footer />
     </div>
   )
 }
