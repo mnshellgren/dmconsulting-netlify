@@ -5,6 +5,7 @@ import graphql from 'graphql'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import Footer from '../components/footer.js'
+import logotype from '../logotype_white.svg'
 
 // code syntax-highlighting theme
 // feel free to change it to another one
@@ -21,9 +22,9 @@ const TemplateWrapper = ({ children, data }) => {
   return (
     <div className='App'>
       <Helmet title={data.site.siteMetadata.title} />
-      <div className='navbar navbar-expand-lg navbar-dark bg-primary'>
+          <div className='navbar navbar-expand-lg navbar-dark main-navigation'>
         <Container>
-          <Link to='/' className='navbar-brand'>{data.site.siteMetadata.title}</Link>
+          <Link to='/' className='navbar-brand'><img className="logotype"src={logotype} alt={data.site.siteMetadata.title} /></Link>
           <ul className='nav navbar-nav'>
 
             {user && (
@@ -34,6 +35,9 @@ const TemplateWrapper = ({ children, data }) => {
 
             <li className='nav-item'>
               <Link to='/about' className='nav-link'>Om</Link>
+            </li>
+            <li className='nav-item'>
+              <Link to='/insights' className='nav-link'>Insikter</Link>
             </li>
             <li className='nav-item'>
               <Link to='/services' className='nav-link'>Tjänster</Link>

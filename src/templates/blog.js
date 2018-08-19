@@ -29,12 +29,16 @@ export default function Template ({ data }) {
           })();`}</script>
         )}
       </Helmet>
-      <Container>
-        <h1 className='display-3'>{post.frontmatter.title}</h1>
+      <Container className="page-content mb-5">
+        <div className="col-xs-12 col-sm-10 mx-auto">
+          <h2 className='display-4 mb-3 font-weight-normal'>{post.frontmatter.title}</h2>
+          <span className="">{post.frontmatter.date}</span>
+        </div>
       </Container>
 
-      <Container dangerouslySetInnerHTML={{ __html: post.html }} />
-
+      <div className="container">
+      <Container className="col-xs-12 col-sm-10 mx-auto" dangerouslySetInnerHTML={{ __html: post.html }} />
+      </div>
       {post.frontmatter.attachments && (<Container><h4>Attachments</h4><CardGroup>
         {post.frontmatter.attachments.map((attachment, i) => (
           <Card key={i}>
@@ -72,7 +76,7 @@ export const pageQuery = graphql`
         disqus
       }
     }
-    
+
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {

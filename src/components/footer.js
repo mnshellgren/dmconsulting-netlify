@@ -9,8 +9,8 @@ class Footer extends Component {
 
   render() {
     return(
-      <footer className="container" >
-        <div>
+      <footer className="footer-main" >
+        <div className="container">
           <span>
             {/*<img src={logoWhite}/>*/}
             <h4>Åsa Degermark</h4>
@@ -22,11 +22,12 @@ class Footer extends Component {
         <h4>
           &copy; 2018 degermark consulting AB
         </h4>
-
-        </div>
-        <div>
+        <div className="col-3 mx-auto mt-5">
           <a>back to top</a>
         </div>
+
+        </div>
+
 
       </footer>
     )

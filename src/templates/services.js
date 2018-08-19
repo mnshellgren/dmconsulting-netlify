@@ -2,16 +2,20 @@ import React from 'react'
 import { Container } from 'reactstrap'
 import Helmet from 'react-helmet'
 import graphql from 'graphql'
+import backgroundimg from '../asa_moderator.jpg'
 
 export default function Template ({ data }) {
   const { markdownRemark: post } = data
   return (
     <div>
       <Helmet title={`${post.frontmatter.title} | ${data.site.siteMetadata.title}`} />
-      <Container>
-        <h1 className='display-3'>{post.frontmatter.title}</h1>
-      </Container>
-      <Container dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="container-fluid heading-container">
+          <img src={backgroundimg}/>
+          <Container>
+            <h1 className='display-4'>{post.frontmatter.title}</h1>
+          </Container>
+        </div>
+      <Container className="content-rich-page services" dangerouslySetInnerHTML={{ __html: post.html }} />
     </div>
   )
 }
