@@ -267,7 +267,9 @@ $padding-lg: 20px;
   }
   .container img {
     max-width: 100%;
-    &.logotype {
+  }
+  .contact-information-inline {
+    .logotype {
       max-width: 50%;
     }
   }
