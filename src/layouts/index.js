@@ -5,6 +5,7 @@ import graphql from 'graphql'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import Footer from '../components/footer.js'
+import MainNavigation from '../components/main_navigation.js'
 import logotype from '../logotype_white.svg'
 
 // code syntax-highlighting theme
@@ -22,35 +23,7 @@ const TemplateWrapper = ({ children, data }) => {
   return (
     <div className='App'>
       <Helmet title={data.site.siteMetadata.title} />
-          <div className='navbar navbar-expand-lg navbar-dark main-navigation'>
-        <Container>
-          <Link to='/' className='navbar-brand'><img className="logotype"src={logotype} alt={data.site.siteMetadata.title} /></Link>
-          <ul className='nav navbar-nav'>
-
-            {user && (
-              <li className='nav-item'>
-                <a href='/admin' className='nav-link'>Admin</a>
-              </li>
-            )}
-
-            <li className='nav-item'>
-              <Link to='/about' className='nav-link'>Om</Link>
-            </li>
-            <li className='nav-item'>
-              <Link to='/insights' className='nav-link'>Insikter</Link>
-            </li>
-            <li className='nav-item'>
-              <Link to='/services' className='nav-link'>Tjänster</Link>
-            </li>
-            <li className='nav-item'>
-              <Link to='/books' className='nav-link'>Böcker</Link>
-            </li>
-            <li className='nav-item'>
-              <Link to='/contact' className='nav-link'>Kontakt</Link>
-            </li>
-          </ul>
-        </Container>
-      </div>
+      <MainNavigation currentUser={user}/>
       <div className='pageContent'>{children()}</div>
       <Footer />
     </div>

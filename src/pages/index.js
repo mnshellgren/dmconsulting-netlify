@@ -29,7 +29,7 @@ const IndexPage = ({ data }) => {
       <div className="container-fluid">
         <section className="container section-padding-top-lg section-padding-bottom-lg">
           <h2>Åsa Degermark</h2>
-          <div className="row">
+          <div className="row mt-4">
             <div className="col-xs-12 col-sm-6">
               <img src={ Profilepicture } />
             </div>
@@ -45,18 +45,18 @@ const IndexPage = ({ data }) => {
       </div>
       <Container>
         <section className="section-padding-top-lg section-padding-bottom-lg">
-        <div className="contact-information-inline">
+        <div className="contact-information-inline row">
+          <div className="col-xs-12 col-sm-6">
+            <div className="LI-profile-badge col-xs-12 col-sm-6"  data-version="v1" data-size="large" data-locale="sv_SE" data-type="horizontal" data-theme="light" data-vanity="hellgrenmns"><a className="LI-simple-link" href='https://se.linkedin.com/in/hellgrenmns?trk=profile-badge'>Måns Hellgren</a></div>
+
+          </div>
           <div className="col-xs-12 col-sm-6">
             <img className="logotype" src={Logotype}/>
-          </div>
-          <div className="col-xs-12 col-sm-6">
-
             <p><a href="mailto:asa@degermark.nu">asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
-              Tel: +46 709 86 24 90 <br></br>
-            <a href="http://linkedin.com/in/asadegermark">linkedin.com/in/asadegermark</a><i class="fa fa-external-link"></i>
+                Tel: +46 709 86 24 90 <br></br>
+              <a href="http://linkedin.com/in/asadegermark">linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
             </p>
           </div>
-
         </div>
       </section>
       </Container>

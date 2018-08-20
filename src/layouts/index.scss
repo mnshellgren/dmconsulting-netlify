@@ -114,6 +114,19 @@ $padding-lg: 20px;
   a {
     color: #fa8f2d;
   }
+  .blog-card {
+    a {
+      color: #555;
+      font-size: 1.6rem;
+      font-weight: 500;
+    }
+    h6 {
+      color: #999;
+      font-weight: 400;
+      font-size: 1rem;
+      font-family: "Open Sans", sans-serif;
+    }
+  }
 
   & > .pageContent {
     flex: 1;
@@ -193,6 +206,7 @@ $padding-lg: 20px;
       z-index: 8;
       h1 {
         color: $color-main-orange;
+        border-color: #fff;
         z-index: 9;
         margin: 0;
         &.inverted {
@@ -239,6 +253,9 @@ $padding-lg: 20px;
         color: #555;
       }
       color: #eee;
+      &.active {
+        color: $color-main-orange;
+      }
     }
   }
   .pageContent {
@@ -250,6 +267,9 @@ $padding-lg: 20px;
   }
   .container img {
     max-width: 100%;
+    &.logotype {
+      max-width: 50%;
+    }
   }
   .jumbotron {
     height: 90vh;

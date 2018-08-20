@@ -30,6 +30,7 @@ module.exports = class HTML extends React.Component {
             content='width=device-width, initial-scale=1, shrink-to-fit=no'
           />
           <script src='https://identity.netlify.com/v1/netlify-identity-widget.js' />
+          <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
           <script src='/admin/netlify_redirect.js' />
           {this.props.headComponents}
           {css}
