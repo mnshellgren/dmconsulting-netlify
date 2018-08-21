@@ -296,6 +296,21 @@ $padding-lg: 20px;
     }
   }
 
+  .blog-post {
+
+    blockquote {
+      padding-left: 20px;
+      margin-left: 20px;
+      border-left: 1px solid #bbb;
+      font-style: italic;
+      font-size: 1.1em;
+    }
+    h1, h2 {
+      border: none;
+      padding-left: none;
+    }
+  }
+
   .content-rich-page {
 
     img {

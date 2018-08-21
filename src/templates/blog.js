@@ -37,7 +37,7 @@ export default function Template ({ data }) {
       </Container>
 
       <div className="container">
-      <Container className="col-xs-12 col-sm-10 mx-auto" dangerouslySetInnerHTML={{ __html: post.html }} />
+      <Container className="col-xs-12 col-sm-10 mx-auto blog-post" dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
       {post.frontmatter.attachments && (<Container><h4>Attachments</h4><CardGroup>
         {post.frontmatter.attachments.map((attachment, i) => (
