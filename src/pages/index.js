@@ -21,9 +21,32 @@ const IndexPage = ({ data }) => {
 
         </section>
       </Container>
-      <div className="container-fluid">
+      <div className="container-fluid services-section">
       <Container>
         <h2>Tjänster</h2>
+        <div className="row">
+          <div className="col-xs-12 col-sm-6 col-md-6 mt-5">
+            <div className="card p-4 text-center">
+              <h4>Ledarskapsutveckling</h4>
+            </div>
+            <div className="card p-4 text-center mt-4">
+              <h4>Moderator & Föredragshållare</h4>
+            </div>
+          </div>
+          <div className="col-xs-12 col-sm-6 col-md-6 mt-5">
+            <div className="card p-4 text-center">
+              <h4>Kommunikation</h4>
+            </div>
+            <div className="card p-4 text-center mt-4">
+              <h4>Interim chef</h4>
+            </div>
+
+          </div>
+          <div className="col-12 mt-5">
+            <Link to='/services' className="col-12 main-button inverted">Läs mer</Link>
+          </div>
+
+        </div>
       </Container>
       </div>
       <div className="container-fluid">

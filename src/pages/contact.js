@@ -3,7 +3,7 @@ import { Container} from 'reactstrap'
 import Link from 'gatsby-link'
 import graphql from 'graphql'
 import Logotype from './logotype_black.svg'
-import backgroundimg from './sailing_blackandwhite.jpg'
+import backgroundimg from '../asa_walking.jpg'
 
 const ContactPage = ({ data }) => {
   return (

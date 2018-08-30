@@ -3,6 +3,7 @@ import { Container } from 'reactstrap'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import logotype from '../logotype_white.svg'
+import logotype_black from '../logotype_black.svg'
 
 export default class MainNavigation extends Component {
 
@@ -15,6 +16,7 @@ export default class MainNavigation extends Component {
     }
 
     this.isActive = this.isActive.bind(this)
+    this.isBlog = this.isBlog.bind(this)
     this.isPage = this.isPage.bind(this)
     this.setActive = this.setActive.bind(this)
     this.setHome = this.setHome.bind(this)
@@ -35,6 +37,34 @@ export default class MainNavigation extends Component {
   isActive(linkName) {
    return((this.state.currentLink == linkName)? true : false)
   }
+  isBlog() {
+    let urlEnding = window.location.href.substr(window.location.href.lastIndexOf('/') + 1)
+
+    let isBlog
+
+    if (urlEnding.length == 0) {
+      isBlog = false
+    }
+    else {
+      switch(urlEnding) {
+        case 'about':
+          break;
+        case 'insights':
+          break;
+        case 'services':
+          break;
+        case 'books':
+          break;
+        case 'contact':
+          break;
+        default:
+          isBlog = true
+      }
+    }
+
+
+    return isBlog
+  }
   isPage() {
     return this.state.hasStyling
   }
@@ -51,7 +81,12 @@ export default class MainNavigation extends Component {
       <div className='navbar navbar-expand-lg navbar-dark main-navigation'>
         <Container>
           <Link to='/' className='navbar-brand' onClick={() => this.setHome()}>
-            <img className="logotype"src={logotype} alt="Degermark Consulting logotype" />
+            { this.isBlog()?
+              <img className="logotype"src={logotype_black} alt="Degermark Consulting logotype" />
+              :
+              <img className="logotype"src={logotype} alt="Degermark Consulting logotype" />
+            }
+
           </Link>
           <ul className='nav navbar-nav'>
           {this.props.user && (

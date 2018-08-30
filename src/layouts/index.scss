@@ -252,7 +252,7 @@ $padding-lg: 20px;
       &:focus {
         color: #555;
       }
-      color: #eee;
+      color: #ddd;
       &.active {
         color: $color-main-orange;
       }
@@ -286,13 +286,40 @@ $padding-lg: 20px;
       padding-left: $padding-md;
     }
   }
+
+  .services-section {
+    .card {
+      border-color: #eee;
+      border-width: 1px;
+    }
+  }
+  .main-button {
+    background: white;
+    color: $color-main-orange;
+    text-transform: uppercase;
+    border: 2px solid $color-main-orange;
+    border-radius: 4px;
+    padding: 8px 20px 8px 20px;
+    box-shadow: 0 2px 4px #ddd;
+    &.inverted {
+      background: $color-main-orange;
+      color: white;
+    }
+  }
+
+
+
+
+
+
   .footer-main {
     width: 100vw;
     background: $color-main-blue;
     padding: 50px;
-    h4 {
+    h4,h6 {
       color: #fff;
-      font-size: 18px;
+      font-size: 16px;
+      font-weight: 400;
     }
   }
 
@@ -308,6 +335,9 @@ $padding-lg: 20px;
     h1, h2 {
       border: none;
       padding-left: none;
+    }
+    h1 {
+      padding-left: 1px;
     }
   }
 
@@ -342,6 +372,23 @@ $padding-lg: 20px;
       p {
         margin-bottom: 20px;
       }
+    }
+    &.books {
+      p {
+        line-height: 120%;
+      }
+      .text {
+
+      }
+      img {
+        box-shadow: 0 3px 14px #8a8a8a;
+        padding: 0;
+        &.swish {
+          box-shadow: none;
+          max-width: 150px;
+        }
+      }
+
     }
   }
 
@@ -388,6 +435,19 @@ $padding-lg: 20px;
       height: 40vh;
       h1 {
         font-size: 2.3rem;
+      }
+    }
+    .content-rich-page {
+      &.books {
+        .bookcover {
+          width: 66%;
+          margin: auto;
+        }
+        img {
+          &.swish {
+            max-width: 50px;
+          }
+        }
       }
     }
   }

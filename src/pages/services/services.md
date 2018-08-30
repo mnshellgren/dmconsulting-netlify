@@ -9,8 +9,8 @@ Chefer och ledningsgrupper behöver utveckla sitt eget och ledningsgruppens geme
 ### Moderator & Föredragshållare
 Ett seminarium blir alltid bättre när en moderator håller ihop den röda tråden, utmanar talarna och säkerställer att publiken får intressant och givande information från talarna. Jag är moderator både på engelska och svenska, både på scener och i digitala produktioner. Inspiration är viktigt vid förändring och påverkar grupper och individer till att agera. Jag erbjuder inspirerande föreläsningar inom digitalt ledarskap, kommunikation och förändring.
 
-### Innehållsproduktion för digitala events
-Ett digitalt event är en kraftfull kommunikationskanal till företag med många medarbetare. Den digitala kanalen ställer ännu större krav på rätt innehåll och en attraktiv produktion. Utifrån företagets behov, tar jag fram en attraktiv agenda och för publiken relevant och lärande innehåll, Jag agerar producent och ger relevant budskaps- och kameraträning till alla medverkande.
+### Kommunikation
+Med dagens företagsklimat och ständiga förändringar är kommunikation, såväl intern- som extern, en av företagets viktigaste aktiviteter. Rätt och relevant kommunikation är ofta nyckeln till engagemang och förändring.  Jag erbjuder tjänster inom såväl extern- som intern kommunikation, främst på strategisk nivå. Jag har en unik kompetens inom produktion av digitala events där jag utvecklat prisbelönta, globala digitala produktioner.
 
 ### Interim chef
 Behöver ni en chef på deltid eller för kortare period? Jag tar uppdrag som interim chef inom områden som marknad, kommunikation, administration eller liknande.

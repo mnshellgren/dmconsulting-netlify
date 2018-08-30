@@ -32,7 +32,7 @@ export default function Template ({ data }) {
       <Container className="page-content mb-5">
         <div className="col-xs-12 col-sm-10 mx-auto">
           <h2 className='display-4 mb-3 font-weight-normal'>{post.frontmatter.title}</h2>
-          <span className="">{post.frontmatter.date}</span>
+          <span className="font-italic">{post.frontmatter.date}</span>
         </div>
       </Container>
 
