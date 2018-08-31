@@ -38,7 +38,7 @@ export default class MainNavigation extends Component {
    return((this.state.currentLink == linkName)? true : false)
   }
   isBlog() {
-    let urlEnding
+    let urlEnding = ''
     if (typeof window !== 'undefined') {
       urlEnding = window.location.href.substr(window.location.href.lastIndexOf('/') + 1)
     }
