@@ -275,15 +275,34 @@ $padding-lg: 20px;
   }
   .jumbotron {
     height: 90vh;
+    position: relative;
     margin-top: -200px;
-    background: #585858;
+    background: #aaa;
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
+    padding-top: 100px;
     h1 {
       color: white;
       border-left: 4px solid #fa8f2d;
       padding-left: $padding-md;
+      z-index: 10;
+    }
+
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: auto;
+      z-index: 1;
+    }
+    .container {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      z-index: 8;
     }
   }
   .intro-text {
@@ -296,6 +315,7 @@ $padding-lg: 20px;
     background: $color-main-blue;
     h2 {
       color: $color-main-orange;
+      margin-bottom: 40px;
     }
     .card {
       border-color: #eee;
@@ -480,6 +500,7 @@ $padding-lg: 20px;
         max-width: unset;
       }
     }
+
   }
 }
 @include media-breakpoint-up(md) {
@@ -487,6 +508,16 @@ $padding-lg: 20px;
     .heading-container {
       img {
         top: -100px;
+      }
+    }
+  }
+}
+@include media-breakpoint-up(lg) {
+  .App {
+    .jumbotron {
+      img {
+        width: 100%;
+        height: auto;
       }
     }
   }

@@ -3,6 +3,7 @@ import { Container } from 'reactstrap'
 import Helmet from 'react-helmet'
 import graphql from 'graphql'
 import backgroundimg from '../asa_moderator.jpg'
+import Link from 'gatsby-link'
 
 export default function Template ({ data }) {
   const { markdownRemark: post } = data
@@ -16,6 +17,9 @@ export default function Template ({ data }) {
           </Container>
         </div>
       <Container className="content-rich-page services" dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="container col-12 mt-5 pt-5 text-center">
+          <Link to='/services' className="col-12 main-button inverted">Läs mer →</Link>
+        </div>
     </div>
   )
 }

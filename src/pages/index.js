@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 import graphql from 'graphql'
 import Profilepicture from '../asa_main_profile.jpg'
 import Logotype from './logotype_black.svg'
+import backgroundimg from './reeds1.jpg'
 
 import leadership_icon from './utveckling.svg'
 import chef_icon from './chef.svg'
@@ -14,6 +15,7 @@ const IndexPage = ({ data }) => {
   return (
     <div className="page-content">
       <div className="jumbotron">
+        <img src={backgroundimg}/>
         <h1>Digitalt Ledarskap & Engagerande kommunikation</h1>
       </div>
       <Container>
@@ -28,9 +30,9 @@ const IndexPage = ({ data }) => {
       </Container>
       <div className="container-fluid services-section">
       <Container>
-        <h2>Tjänster</h2>
+        <h2 className="display-4">Tjänster</h2>
         <div className="row">
-          <div className="col-xs-12 col-sm-6 col-md-6 mt-5">
+          <div className="col-xs-12 col-sm-6 col-md-6 mt-4">
             <div className="card p-4 text-center">
               <img className="card-icon mt-3 mb-4" src={leadership_icon} alt="Created by Massupa  Kaewgahya"/>
               <h4>Ledarskapsutveckling</h4>
@@ -42,7 +44,7 @@ const IndexPage = ({ data }) => {
               <p>Inspirera och engagera din publik inom områdena digitalt ledarskap, kommunikation och förändring</p>
             </div>
           </div>
-          <div className="col-xs-12 col-sm-6 col-md-6 mt-5">
+          <div className="col-xs-12 col-sm-6 col-md-6 mt-4">
             <div className="card p-4 text-center">
               <img className="card-icon mt-3 mb-4" src={organisation_icon} alt="Created by Massupa  Kaewgahya"/>
               <h4>Kommunikation</h4>
