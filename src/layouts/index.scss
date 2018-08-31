@@ -286,20 +286,36 @@ $padding-lg: 20px;
       padding-left: $padding-md;
     }
   }
+  .intro-text {
+    font-size: 1.4em;
+  }
 
   .services-section {
+    padding-bottom: 100px;
+    padding-top: 100px;
+    background: $color-main-blue;
+    h2 {
+      color: $color-main-orange;
+    }
     .card {
       border-color: #eee;
       border-width: 1px;
+      img {
+        min-width: 20%;
+      }
+    }
+    .main-button {
+      box-shadow: 0 2px 4px #333;
     }
   }
   .main-button {
+    font-size: 1.1em;
     background: white;
     color: $color-main-orange;
     text-transform: uppercase;
     border: 2px solid $color-main-orange;
     border-radius: 4px;
-    padding: 8px 20px 8px 20px;
+    padding: 10px 20px 10px 24px;
     box-shadow: 0 2px 4px #ddd;
     &.inverted {
       background: $color-main-orange;
@@ -449,6 +465,9 @@ $padding-lg: 20px;
           }
         }
       }
+    }
+    .intro-text {
+      font-size: 1.2em;
     }
   }
 }
