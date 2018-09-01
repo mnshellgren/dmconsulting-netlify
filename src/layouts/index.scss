@@ -391,6 +391,9 @@ $padding-lg: 20px;
     h1 {
       padding-left: 1px;
     }
+    .display-4 {
+
+    }
   }
 
   .content-rich-page {
@@ -480,6 +483,13 @@ $padding-lg: 20px;
         max-width: 200px;
       }
     }
+    .blog {
+      h2 {
+        &.display-4 {
+          font-size: 40px;
+        }
+      }
+    }
   }
 }
 @include media-breakpoint-down(sm) {
@@ -507,6 +517,28 @@ $padding-lg: 20px;
             max-width: 50px;
           }
         }
+      }
+    }
+    .blog {
+      h2 {
+        &.display-4 {
+          font-size: 30px;
+        }
+      }
+    }
+    .blog-post {
+      p, li {
+        font-size: 16px;
+      }
+      h2 {
+        font-size: 25px;
+      }
+      blockquote {
+        padding-left: 15px;
+      }
+      ul, ol {
+        margin-left: 30px;
+        padding: 25px 0 10px 0;
       }
     }
     .intro-text {

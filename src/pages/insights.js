@@ -19,8 +19,8 @@ const InsightsPage = ({ data }) => {
           <div className="blog-card" style={{marginBottom: 10}} key={post.id}>
             <CardBody>
               <CardTitle><Link to={post.frontmatter.path}>{post.frontmatter.title}</Link></CardTitle>
-              <CardSubtitle style={{marginBottom: 10}}>{post.frontmatter.date}</CardSubtitle>
-              <CardText>{post.excerpt}</CardText>
+              <CardSubtitle className="font-italic" style={{color: '#fa8f2d'}}>{post.frontmatter.date}</CardSubtitle>
+              <CardText className="mt-1">{post.excerpt}</CardText>
             </CardBody>
           </div>
         ))}

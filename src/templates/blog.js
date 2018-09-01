@@ -29,10 +29,10 @@ export default function Template ({ data }) {
           })();`}</script>
         )}
       </Helmet>
-      <Container className="page-content mb-5">
+      <Container className="page-content mb-5 blog">
         <div className="col-xs-12 col-sm-10 mx-auto">
           <h2 className='display-4 mb-3 font-weight-normal'>{post.frontmatter.title}</h2>
-          <span className="font-italic">{post.frontmatter.date}</span>
+          <span className="font-italic" style={{marginBottom: 10, color: '#fa8f2d'}}>{post.frontmatter.date}</span>
         </div>
       </Container>
 
