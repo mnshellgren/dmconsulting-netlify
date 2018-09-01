@@ -87,7 +87,7 @@
 
 
 /*  VARIABLES  */
-$color-main-blue: #0e1d38;
+$color-main-blue: #0d2248;
 $color-main-orange: #fa8f2d;
 $padding-sm: 5px;
 $padding-md: 10px;
@@ -288,6 +288,7 @@ $padding-lg: 20px;
       border-left: 4px solid #fa8f2d;
       padding-left: $padding-md;
       z-index: 10;
+      font-size: 45px;
     }
 
     img {
@@ -336,7 +337,7 @@ $padding-lg: 20px;
     border: 2px solid $color-main-orange;
     border-radius: 4px;
     padding: 10px 20px 10px 24px;
-    box-shadow: 0 2px 4px #ddd;
+    box-shadow: 0 1px 4px #ddd;
     &.inverted {
       background: $color-main-orange;
       color: white;
@@ -452,6 +453,7 @@ $padding-lg: 20px;
       height: 80vh;
       h1 {
         width: 80%;
+        font-size: 40px;
       }
     }
     .heading-container {
@@ -467,6 +469,12 @@ $padding-lg: 20px;
 }
 @include media-breakpoint-down(sm) {
   .App {
+    .jumbotron {
+      h1 {
+        width: 80%;
+        font-size: 30px;
+      }
+    }
     .heading-container {
       height: 40vh;
       h1 {

@@ -26,8 +26,8 @@ class Footer extends Component {
         <p>
           &copy; 2018 Degermark Consulting AB
         </p>
-        <div className="col-3 mx-auto mt-5">
-          <a onClick={this.scrollToTop}>back to top</a>
+        <div className="col-xs-12 col-sm-4 col-md-3 mx-auto mt-5">
+          <a onClick={this.scrollToTop}>Tillbaka till toppen ↑</a>
         </div>
 
         </div>

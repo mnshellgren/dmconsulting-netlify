@@ -11,6 +11,8 @@ import chef_icon from './chef.svg'
 import moderator_icon from './moderator.svg'
 import organisation_icon from './organisation.svg'
 
+import EuroAcademylogo from './euroacademy.png'
+
 const IndexPage = ({ data }) => {
   return (
     <div className="page-content">
@@ -67,7 +69,7 @@ const IndexPage = ({ data }) => {
       <div className="container-fluid">
         <section className="container section-padding-top-lg section-padding-bottom-lg">
           <h2>Åsa Degermark</h2>
-          <div className="row mt-4">
+          <div className="row mt-4 pb-5">
             <div className="col-xs-12 col-sm-6">
               <img src={ Profilepicture } />
             </div>
@@ -78,6 +80,26 @@ const IndexPage = ({ data }) => {
                 <li>Föredragshållare & moderator</li>
               </ul>
             </div>
+          </div>
+          <h2 className="mt-5">Samarbetspartners</h2>
+          <div className="row mt-5">
+            <div className="card px-5 py-3 mx-1 text-center">
+              <a href="https://www.euro-academy.com/" target="_blank">
+              <img className="card-icon mt-3 mb-4" src={EuroAcademylogo} alt="Created by Massupa  Kaewgahya"/>
+              </a>
+            </div>
+            <div className="card px-5 py-3 mx-1 text-center">
+              <a href="https://novare.se/novare-leadership-academy/" target="_blank">
+              <h5 className="mt-5">Novare Leadership Academy</h5>
+              </a>
+            </div>
+            <div className="card px-5 py-3 mx-1 text-center">
+              <a href="https://www.miun.se/" target="_blank">
+              <h5 className="mt-5">Mittuniversitetet</h5>
+              </a>
+            </div>
+
+
           </div>
         </section>
       </div>
@@ -90,7 +112,7 @@ const IndexPage = ({ data }) => {
           </div>
           <div className="col-xs-12 col-sm-6">
             <img className="logotype" src={Logotype}/>
-            <p><a href="mailto:asa@degermark.nu">asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
+            <p className="mt-3"><a href="mailto:asa@degermark.nu">asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
                 Tel: +46 709 86 24 90 <br></br>
               <a href="http://linkedin.com/in/asadegermark">linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
             </p>

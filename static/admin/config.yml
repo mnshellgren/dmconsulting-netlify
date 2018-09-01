@@ -33,7 +33,7 @@ collections:
 
   - name: "services"
     label: "Services"
-    folder: "src/pages/Services"
+    folder: "src/pages/services"
     create: false
     slug: "{{slug}}"
     fields:
