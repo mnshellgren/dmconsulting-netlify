@@ -83,19 +83,19 @@ const IndexPage = ({ data }) => {
           </div>
           <h2 className="mt-5">Samarbetspartners</h2>
           <div className="row mt-5">
-            <div className="card px-5 py-3 mx-1 text-center">
+            <div className="col-xs-12 col-sm-12 col-md-3 card px-3 py-3 mx-1 mt-2 text-center">
               <a href="https://www.euro-academy.com/" target="_blank">
-              <img className="card-icon mt-3 mb-4" src={EuroAcademylogo} alt="Created by Massupa  Kaewgahya"/>
+              <img className="card-icon mt-4 mb-4" src={EuroAcademylogo} alt="Created by Massupa  Kaewgahya"/>
               </a>
             </div>
-            <div className="card px-5 py-3 mx-1 text-center">
+            <div className="col-xs-12 col-sm-12 col-md-4 card px-5 py-5 mx-1 mt-2 text-center">
               <a href="https://novare.se/novare-leadership-academy/" target="_blank">
-              <h5 className="mt-5">Novare Leadership Academy</h5>
+              <h5 className="">Novare Leadership Academy</h5>
               </a>
             </div>
-            <div className="card px-5 py-3 mx-1 text-center">
+            <div className="col-xs-12 col-sm-12 col-md-4 card px-5 py-5 mx-1 mt-2 text-center">
               <a href="https://www.miun.se/" target="_blank">
-              <h5 className="mt-5">Mittuniversitetet</h5>
+              <h5 className="">Mittuniversitetet</h5>
               </a>
             </div>
 
@@ -104,20 +104,34 @@ const IndexPage = ({ data }) => {
         </section>
       </div>
       <Container>
-        <section className="section-padding-top-lg section-padding-bottom-lg">
-        <div className="contact-information-inline row">
-          <div className="col-xs-12 col-sm-6">
-            <div className="LI-profile-badge col-xs-12 col-sm-6"  data-version="v1" data-size="large" data-locale="sv_SE" data-type="horizontal" data-theme="light" data-vanity="hellgrenmns"><a className="LI-simple-link" href='https://se.linkedin.com/in/hellgrenmns?trk=profile-badge'>Måns Hellgren</a></div>
+        <section className="section-padding-top-sm section-padding-bottom-lg">
+          <h2 className="mt-5">Kontakt</h2>
+          <div className="row mt-5">
 
+            <div className="col-xs-11 col-sm-6 col-md-6 col-lg-5 pl-1">
+              <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="sv_SE" data-type="horizontal" data-theme="light" data-vanity="hellgrenmns"><a className="LI-simple-link" href='https://se.linkedin.com/in/hellgrenmns?trk=profile-badge'>Måns Hellgren</a></div>
+
+            </div>
+            <div className="col-xs-11 col-sm-7 col-md-6">
+              <div className="row">
+                {/*<div className="col-xs-3 col-sm-3 col-md-3">
+                <p>mail: <br></br>
+                   mobil: <br></br>
+                   linkedin:</p>
+                </div>*/}
+                <div className="col-10"><img className="logotype" src={Logotype}/></div>
+
+                <div className="col-12 mt-4">
+                <p className="">mail: <a href="mailto:asa@degermark.nu"> asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
+                    mobil: +46 709 86 24 90 <br></br>
+                  linkedin:
+                  <a href="http://linkedin.com/in/asadegermark"> linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
+                </p>
+                </div>
+              </div>
+
+            </div>
           </div>
-          <div className="col-xs-12 col-sm-6">
-            <img className="logotype" src={Logotype}/>
-            <p className="mt-3"><a href="mailto:asa@degermark.nu">asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
-                Tel: +46 709 86 24 90 <br></br>
-              <a href="http://linkedin.com/in/asadegermark">linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
-            </p>
-          </div>
-        </div>
       </section>
       </Container>
     </div>
