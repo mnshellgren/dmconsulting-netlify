@@ -20,8 +20,7 @@ const ContactPage = ({ data }) => {
           <div className="row mt-5">
 
             <div className="col-xs-11 col-sm-6 col-md-6 col-lg-5 pl-1">
-              <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="sv_SE" data-type="horizontal" data-theme="light" data-vanity="hellgrenmns"><a className="LI-simple-link" href='https://se.linkedin.com/in/hellgrenmns?trk=profile-badge'>Måns Hellgren</a></div>
-
+              <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="asadegermark"><a className="LI-simple-link" href='https://se.linkedin.com/in/asadegermark?trk=profile-badge'>Åsa Degermark</a></div>
             </div>
             <div className="col-xs-11 col-sm-7 col-md-6">
               <div className="row">
