@@ -16,4 +16,4 @@ För att successivt implementera ett nytt synsätt och attityd på sin arbetsupp
 
 Mer om ledarskap i den digital världen hittar du i boken ”Digitalt Ledarskap – utveckla din förmåga att leda i en digital värld”. Finns att beställa på: www.degermarkconsulting.se 
 
-![](/files/medarbetare.jpg)
+![null](/files/medarbetare.jpg)
