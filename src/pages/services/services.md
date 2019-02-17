@@ -9,17 +9,23 @@ Chefer och ledningsgrupper behöver utveckla sitt eget och ledningsgruppens geme
 
 I support leaders and leadership teams to upgrade their leadership, their communication and their culture to become better equipped to lead in a digital world. 
 
+Referens customer: Oriflame
+
 ### Kommunikation
 
-Med dagens företagsklimat och ständiga förändringar och förbättringar, är kommunikation och transparens en av företagets viktigaste aktiviteter. Rätt och relevant kommunikation är ofta nyckeln till engagemang och förändring.  Jag erbjuder tjänster inom såväl extern- som intern kommunikation med fokus på engagerande och relevant innehåll.  Jag erbjuder också produktion av digitala events, med både innehåll, produktion  och talarträning. 
+Med dagens företagsklimat och ständiga förändringar och förbättringar, är kommunikation och transparens en av företagets viktigaste aktiviteter. Rätt och relevant kommunikation är ofta nyckeln till engagemang och förändring.  Jag erbjuder tjänster inom såväl extern- som intern kommunikation med fokus på engagerande och relevant innehåll.  Jag erbjuder också produktion av digitala events, med både innehåll, produktion och talarträning. 
 
 I support organizations with change communication to ensure a successful and sustainable implementation.   
 
+Referens customer: Ericsson, Sandvik, Volvo Cars, Efftre
+
 ### Moderator & Föredragshållare
 
-Ett seminarium blir alltid bättre när en moderator håller ihop den röda tråden, utmanar talarna och säkerställer att publiken får intressant och givande information från talarna. Jag är moderator både på engelska och svenska, både på scener och i digitala produktioner. Inspiration är viktigt vid förändring och påverkar grupper och individer till att agera. Jag erbjuder också inspirerande föreläsningar inom digitalt ledarskap, kommunikation och förändring.
+Inspiration är viktigt vid förändring, inte minst för att ge nya perspektiv och motivera grupper och individer att agera. Jag erbjuder inspirerande föreläsningar inom digitalt ledarskap, kommunikation och förändring, både på svenska och engelska. Jag är även moderator, både på scener och i digitala produktioner. 
 
-On stage, I inspire people to embrace the digital era and leadership. I also moderate conferences, live or in digital format, to support a great experience for the audience .
+On stage, I inspire people to embrace the digital era, including upgrading their leadership. I do speecheds in both swedish and engligh. I also moderate conferences, live or in digital format, to support a great experience for the audience .
+
+Referens customer: Fonus, (Ingenjörsvetenskapsakademin (IVA), Ericsson, Samhall, Trygg Hansa
 
 ### 
 
