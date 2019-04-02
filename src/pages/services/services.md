@@ -5,9 +5,9 @@ title: Tjänster
 ---
 ### Ledarskapsutveckling
 
-Chefer och ledningsgrupper behöver utveckla sitt eget och ledningsgruppens gemensamma ledarskap i takt med att företaget utvecklas och digitaliseras. En utvecklingsplan för VD och ledningsgrupp borde vara lika självklart som en utvecklingsplan för företaget. Som konsult hjälper jag chefer och ledningsgrupper att utveckla sitt ledarskap, sin kommunikation och sin kultur för att vara bättre rustade att leda och lyckas i en digital värld.  
+Chefer och ledningsgrupper behöver utveckla sitt eget och ledningsgruppens gemensamma ledarskap i takt med att företaget utvecklas och digitaliseras. En utvecklingsplan för VD och ledningsgrupp borde vara lika självklart som en utvecklingsplan för företaget. Som konsult hjälper jag chefer och ledningsgrupper att utveckla sitt ledarskap, sin kommunikation och sin kultur för att vara bättre rustade att leda och lyckas i en digital värld. Jag jobbar enligt traditionella coaching- och utvecklingsmodeller, men fokuserar på de områden som leder till framgångsrikt ledarskap i en digital värld.  
 
-I support leaders and leadership teams to upgrade their leadership, their communication and their culture to become better equipped to lead in a digital world. 
+I support leaders and leadership teams to upgrade their leadership, their communication and their culture to become better equipped to lead in a digital world. I work with traditional coaching- and development methods, but focus on the areas that will make your leadership successfu in a digital world. 
 
 Referens customers: Oriflame, Input Consulting, Novare Leadership Academy, Fonus
 
