@@ -9,7 +9,7 @@ Chefer och ledningsgrupper behöver utveckla sitt eget och ledningsgruppens geme
 
 I support leaders and leadership teams to upgrade their leadership, their communication and their culture to become better equipped to lead in a digital world. I work with traditional coaching- and development methods, but focus on the areas that will make your leadership successfu in a digital world. 
 
-Referens customers: Oriflame, Input Consulting, Novare Leadership Academy, Fonus
+Referens customers: Oriflame, Input Consulting, Novare Leadership Academy, Fonus, ICA
 
 ### Kommunikation
 
@@ -17,7 +17,7 @@ Med dagens företagsklimat och ständiga förändringar och förbättringar, är
 
 I support organizations with change communication to ensure a successful and sustainable implementation.   
 
-Referens customer: Ericsson, Sandvik, Volvo Cars, Efftre
+Referens customers: Ericsson, Sandvik, Volvo Cars, Efftre
 
 ### Moderator & Föredragshållare
 
@@ -25,7 +25,7 @@ Inspiration är viktigt vid förändring, inte minst för att ge nya perspektiv 
 
 On stage, I inspire people to embrace the digital era, including upgrading their leadership. I do speecheds in both swedish and engligh. I also moderate conferences, live or in digital format, to support a great experience for the audience .
 
-Referens customers: Fonus, Ingenjörsvetenskapsakademin (IVA), Ericsson, Samhall, Trygg Hansa, Vattenfall
+Referens customers: Fonus, Ingenjörsvetenskapsakademin (IVA), Ericsson, Samhall, Trygg Hansa, Vattenfall, Relacom
 
 ### 
 
