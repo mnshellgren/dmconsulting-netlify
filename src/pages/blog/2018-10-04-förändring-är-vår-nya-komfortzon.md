@@ -1,7 +1,7 @@
 ---
 contentType: blog
-path: /
-title: /Förändring är vår nya komfortzon
+path: /Förändring är vår nya komfortzon
+title: Förändring är vår nya komfortzon
 date: '2018-10-04T12:13:04+02:00'
 ---
 Förändring är numera en konstant faktor i företagssammanhang.  Förändringsprojekten avlöser varandra och oftast sker många projekt parallellt. I och med att man pratar om ”projekt” i det här sammanhanget, blir också medarbetarnas förväntan och inställning 
