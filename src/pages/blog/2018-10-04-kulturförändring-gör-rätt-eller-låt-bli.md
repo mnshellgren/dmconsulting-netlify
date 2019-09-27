@@ -1,7 +1,7 @@
 ---
 contentType: blog
-path: Kulturförändring - gör rätt eller låt bli
-title: /Kulturförändring - gör rätt eller låt bli
+path: /Kulturförändring - gör rätt eller låt bli
+title: Kulturförändring - gör rätt eller låt bli
 date: '2018-10-04T12:33:26+02:00'
 ---
 FÖRETAGSKULTUR – GÖR DET RÄTT ELLER LÄGG PENGARNA PÅ NÅGOT ANNAT!
