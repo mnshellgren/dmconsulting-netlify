@@ -31,9 +31,7 @@ title: Tjänster
 
 ### “Just because you have spoken doesn’t mean you have been heard”. Leaders are expected to communicate more than ever and it is easy to go wrong. We work with the 6-step communication model as a tool to plan and execute communication that is most relevant for your target group and situation.
 
-### Reference customers:
-
-### Ericsson, ICA, Input Consulting, Bengt Dahlgren AB, Göteborgs Stad, ABB
+### Reference customers: Ericsson, ICA, Input Consulting, Bengt Dahlgren AB, Göteborgs Stad, ABB
 
 ### 
 
@@ -51,9 +49,7 @@ title: Tjänster
 
 ### With extensive experience in planning, creating and executing digital events and conferences, I offer the full range of services to create your successful sustainable digital event. The services range from content creation and event planning to production execution including script writing, speakers training and studio set-up.
 
-### Reference customers:
-
-### Ericsson, Volvo Cars, Business Sweden, Telia Company, Oriflame
+### Reference customers: Ericsson, Volvo Cars, Business Sweden, Telia Company, Oriflame
 
 ### 
 
@@ -83,9 +79,7 @@ title: Tjänster
 
 ### Explains the upcoming scenarios and consequences when AI is being implanted broadly and being part of your business. How to prepare yourself and your team and how to act when an AI-robot is part of your team.
 
-### Reference customers:
-
-### Fonus, Royal Swedish Academy of Engineering Sciences, Ericsson, Samhall, Trygg Hansa, Vattenfall, Relacom, Volkswagen, Aviva, Göteborgs Stad, Burlövs Kommun, Novare Leadership Academy
+### Reference customers: Fonus, Royal Swedish Academy of Engineering Sciences, Ericsson, Samhall, Trygg Hansa, Vattenfall, Relacom, Volkswagen, Aviva, Göteborgs Stad, Burlövs Kommun, Novare Leadership Academy
 
 ### 
 
