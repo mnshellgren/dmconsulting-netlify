@@ -5,12 +5,12 @@ title: Om företaget
 ---
 ### Åsa Degermark
 
-Jag brinner för kommunikation, ledarskap och digital transformation. \
-Jag har 25 års erfarenhet som chef, bl.a. på Ericsson. Har drivit ett stort antal utvecklings- och förändringsprojekt, varit medlem i många ledningsgrupper och coachat ett stort antal chefer i bl.a. kommunikativt ledarskap och förändring. Mitt senaste uppdrag som anställd var som kommunikationschef för Ericssons avdelning för teknikutveckling och innovation, där jag var högst involverad i digital transformation, både internt och tillsammans med kunder och partners. 
+I have a big passion and knowledge in communication, leadership and digital transformation. I have spent 20 years in Ericsson (Telecom) in managing roles, working with leadership, change and communication for the research and innovation part of the company. I have been part of digital transformation myself and learned a lot what makes a transformation successful. Since 2018 I have my own business where I focus on supporting others to become successful.  
 
-Jag har alltid haft ett stort intresse för ledarskap och har ägnat mycket fokus åt ledarskap i digitala miljöer. Är certifierad ledarskapscoach och certifierad i Digital Transformation. Jag är konsult, men håller även inspirerande föreläsningar, både på internationella scener och i Sverige.\
-Jag samarbetar med Novare Leadership Academy, där jag bidrar med kunskap och inspiration kring att leda digitala organisationer, förändringledning och det kommunikativa ledarskapet. Jag verkar även som moderator, både på scener och i det digitala formatet. Jag har själv utvecklat och producerat prisbelönade digitala events, bl.a fick jag priset för Sveriges bästa interna event 2016. \
-\
-Jag kommer från en idrottsbakgrund och började min karriär som skidlärare. Idag är jag en glad motionär, gärna med ett par rullskidor eller längdskidor på fötterna. Jag erbjuder alla mina tjänster på både svenska och engelska.
+I am certified in leadership coaching and digital transformation and have tons of communication experience. I love to work with leaders and leadership teams to support their development in leading successfully in a digital world. I work in close cooperation with Novare Leadership Academy to provide insights and experiences to leaders in training. I'm the author of the book "Digital Leadership" (only in Swedish so far). My next book about leadership and AI is under progress and will be produced in English. 
 
-I have a big passion for communication and leadership, with own leadership experience in change management, development and digital transformation. I am certified leadership coach, working with leaders as well as leadership teams to upgrade their leadership to become successful in a digital world. I'm the author of the book "Digital Leadership" (only in Swedish so far).  I also work on stage, inspiring leaders and employees for the digital era or moderate the event to provide the best audience experience.
+I love to share my favorite topics in inspirational key notes, either on international stages or in the digital format.
+
+I have extensive experience in creating and executing digital events and I have been awarded twice for “Best digital event”, both in Sweden and in Europe.  
+
+I have a sports background and started off my career as a ski-instructor in Sweden and US. Today I make sure to stay in shape and have fun with skiing and cycling.
