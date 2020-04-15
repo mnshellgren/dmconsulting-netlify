@@ -29,7 +29,7 @@ const IndexPage = ({ data }) => {
       </Container>
       <div className="container-fluid services-section">
       <Container>
-        <h2 className="display-4">Tjänster</h2>
+        <h2 className="display-4">Services</h2>
         <div className="row">
           <div className="col-xs-12 col-sm-6 col-md-6 mt-4">
             <div className="card p-4 text-center">
