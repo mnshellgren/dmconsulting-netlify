@@ -23,10 +23,7 @@ const IndexPage = ({ data }) => {
       <Container>
         <section className="col-xs-11 col-sm-10 col-md-8 text-center m-auto section-padding-top-lg section-padding-bottom-lg">
 
-            <h5 className="intro-text">Degermark Consulting inriktar sig främst på kommunikation och ledarskap
-          och ger stöd till chefer och ledningsgrupper som behöver utveckla sitt
-          eget eller ledningsgruppens gemensamma ledarskap i takt med att företaget
-          utvecklas och digitaliseras.</h5>
+            <h5 className="intro-text">Degermark Consulting focuses on communication, leadership development and digital transformation. We give support to companies, managers and management teams in transforming the business and upgrade the leadership for continued success in a digital world.</h5>
 
         </section>
       </Container>
@@ -37,25 +34,27 @@ const IndexPage = ({ data }) => {
           <div className="col-xs-12 col-sm-6 col-md-6 mt-4">
             <div className="card p-4 text-center">
               <img className="card-icon mt-3 mb-4" src={leadership_icon} alt="Created by Massupa  Kaewgahya"/>
-              <h4>Ledarskapsutveckling</h4>
-              <p>Bli bättre rustad för att leda framgångsrikt i takt med att ditt företag utvecklas och digitaliseras</p>
+              <h4>Leadership Development</h4>
+              <p>Prepare and arm yourself to lead successfully when your company and market is being digitalized</p>
             </div>
             <div className="card p-4 text-center mt-4">
               <img className="card-icon mt-3 mb-4" src={moderator_icon} alt="Created by Massupa  Kaewgahya"/>
-              <h4>Moderator & Föredragshållare</h4>
-              <p>Inspirera och engagera din publik inom områdena digitalt ledarskap, kommunikation och förändring</p>
+              <h4>Keynote speaker & moderator</h4>
+              <p>Inspire and guide your company to continued success, presented with passion, insights and examples.</p>
             </div>
           </div>
           <div className="col-xs-12 col-sm-6 col-md-6 mt-4">
             <div className="card p-4 text-center">
               <img className="card-icon mt-3 mb-4" src={organisation_icon} alt="Created by Massupa  Kaewgahya"/>
-              <h4>Kommunikation</h4>
-              <p>Nyckeln till engagemang och förändring börjar med bra kommunikation, både internt och externt </p>
+              <h4>Communication & Digital Event Production</h4>
+              <p>The key to engagement and business result starts with a well thought out communication. The right message in the right channel will help you to come across. To reach a larger
+
+audience in a sustainable way, a digital conference can be your option.</p>
             </div>
             <div className="card p-4 text-center mt-4">
               <img className="card-icon mt-3 mb-4" src={chef_icon} alt="management by Massupa  Kaewgahya from the Noun Project"/>
-              <h4>Interim chef</h4>
-              <p>Stärk upp tillfälligt inom områden som marknad, kommunikation, administration eller liknande</p>
+              <h4>Digital Transformation</h4>
+              <p>To meet the increased competition and stay relevant, digital opportunities will support your company in becoming more attractive and more efficient. But start to act now!</p>
             </div>
 
           </div>
@@ -75,9 +74,9 @@ const IndexPage = ({ data }) => {
             </div>
             <div className="col-xs-12 col-sm-6 pt-3">
               <ul>
-                <li>20 års erfarenhet som chef inom marknadsföring och kommunikation</li>
-                <li>Certifierad ledarskapscoach</li>
-                <li>Föredragshållare & moderator</li>
+                <li>20 years of experience in management and communication</li>
+                <li>Certified leadership coach</li>
+                <li>Keynote speaker & moderator</li>
               </ul>
             </div>
           </div>
@@ -105,7 +104,7 @@ const IndexPage = ({ data }) => {
       </div>
       <Container>
         <section className="section-padding-top-sm section-padding-bottom-lg">
-          <h2 className="mt-5">Kontakt</h2>
+          <h2 className="mt-5">Contact</h2>
           <div className="row mt-5">
 
             <div className="col-xs-11 col-sm-6 col-md-6 col-lg-5 pl-1 mt-3">
@@ -121,8 +120,8 @@ const IndexPage = ({ data }) => {
                 <div className="col-10"><img className="logotype" src={Logotype}/></div>
 
                 <div className="col-12 mt-4">
-                <p className="">mail: <a href="mailto:asa@degermark.nu"> asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
-                    mobil: +46 709 86 24 90 <br></br>
+                <p className="">email: <a href="mailto:asa@degermark.nu"> asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
+                    mobile: +46 709 86 24 90 <br></br>
                   linkedin:
                   <a href="http://linkedin.com/in/asadegermark"> linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
                 </p>
