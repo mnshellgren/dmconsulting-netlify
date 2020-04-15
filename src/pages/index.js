@@ -18,7 +18,7 @@ const IndexPage = ({ data }) => {
     <div className="page-content">
       <div className="jumbotron">
         <img src={backgroundimg}/>
-        <h1>Digitalt Ledarskap & Engagerande kommunikation</h1>
+        <h1>Digital leadership & engaging communication</h1>
       </div>
       <Container>
         <section className="col-xs-11 col-sm-10 col-md-8 text-center m-auto section-padding-top-lg section-padding-bottom-lg">
@@ -59,7 +59,7 @@ audience in a sustainable way, a digital conference can be your option.</p>
 
           </div>
           <div className="col-12 mt-5 pt-5 text-center">
-            <Link to='/services' className="col-12 main-button inverted">Läs mer →</Link>
+            <Link to='/services' className="col-12 main-button inverted">Read more →</Link>
           </div>
 
         </div>
@@ -80,7 +80,7 @@ audience in a sustainable way, a digital conference can be your option.</p>
               </ul>
             </div>
           </div>
-          <h2 className="mt-5">Samarbetspartners</h2>
+          <h2 className="mt-5">Partners</h2>
           <div className="row mt-5">
             <div className="col-xs-12 col-sm-12 col-md-3 card px-3 py-3 mx-1 mt-2 text-center">
               <a href="https://www.euro-academy.com/" target="_blank">
@@ -94,7 +94,7 @@ audience in a sustainable way, a digital conference can be your option.</p>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-4 card px-5 py-5 mx-1 mt-2 text-center">
               <a href="https://www.miun.se/" target="_blank">
-              <h5 className="">Mittuniversitetet</h5>
+              <h5 className="">The Futures Agency</h5>
               </a>
             </div>
 

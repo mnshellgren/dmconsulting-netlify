@@ -19,15 +19,15 @@ class Footer extends Component {
             {/*<img src={logoWhite}/>*/}
             <h4>Degermark Consulting</h4>
             <p><a href="mailto:asa@degermark.nu">asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
-            Tel: +46 709 86 24 90 <br></br>
+            Phone: +46 709 86 24 90 <br></br>
           <a href="http://linkedin.com/in/asadegermark">linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
             </p>
           </span>
         <p>
-          &copy; 2018 Degermark Consulting AB
+          &copy; 2020 Degermark Consulting AB
         </p>
         <div className="col-xs-12 col-sm-4 col-md-3 mx-auto mt-5">
-          <a onClick={this.scrollToTop}>Tillbaka till toppen ↑</a>
+          <a onClick={this.scrollToTop}>Back to top ↑</a>
         </div>
 
         </div>

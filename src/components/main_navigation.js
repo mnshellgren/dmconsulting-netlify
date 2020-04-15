@@ -97,19 +97,19 @@ export default class MainNavigation extends Component {
             </li>
           )}
           <li className='nav-item'>
-            <Link to='/about' className={this.isActive("about")? "nav-link active" : "nav-link"} onClick={() => this.setActive("about")}>Om</Link>
+            <Link to='/about' className={this.isActive("about")? "nav-link active" : "nav-link"} onClick={() => this.setActive("about")}>About</Link>
           </li>
           <li className='nav-item'>
-            <Link to='/insights' className={this.isActive("insights")? "nav-link active" : "nav-link"} onClick={() => this.setActive("insights")}>Insikter</Link>
+            <Link to='/insights' className={this.isActive("insights")? "nav-link active" : "nav-link"} onClick={() => this.setActive("insights")}>Insights</Link>
           </li>
           <li className='nav-item'>
-            <Link to='/services' className={this.isActive("services")? "nav-link active" : "nav-link"} onClick={() => this.setActive("services")}>Tjänster</Link>
+            <Link to='/services' className={this.isActive("services")? "nav-link active" : "nav-link"} onClick={() => this.setActive("services")}>Services</Link>
           </li>
           <li className='nav-item'>
-            <Link to='/books' className={this.isActive("books")? "nav-link active" : "nav-link"} onClick={() => this.setActive("books")}>Böcker</Link>
+            <Link to='/books' className={this.isActive("books")? "nav-link active" : "nav-link"} onClick={() => this.setActive("books")}>Books</Link>
           </li>
           <li className='nav-item'>
-            <Link to='/contact' className={this.isActive("contact")? "nav-link active" : "nav-link"} onClick={() => this.setActive("contact")}>Kontakt</Link>
+            <Link to='/contact' className={this.isActive("contact")? "nav-link active" : "nav-link"} onClick={() => this.setActive("contact")}>Contact</Link>
           </li>
           </ul>
         </Container>

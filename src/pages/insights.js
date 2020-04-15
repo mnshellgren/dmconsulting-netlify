@@ -11,7 +11,7 @@ const InsightsPage = ({ data }) => {
       <div className="container-fluid heading-container">
         <img src={ backgroundimg } />
         <Container>
-          <h1 className='display-4'>Insikter</h1>
+          <h1 className='display-4'>Insights</h1>
         </Container>
       </div>
       <Container className="section-padding-top-md">
