@@ -79,7 +79,7 @@ Provides insights on the consequences when your team members change their workin
 
 Explains the upcoming scenarios and consequences when AI is being implanted broadly and being part of your business. How to prepare yourself and your team and how to act when an AI-robot is part of your team.
 
-**Reference customers: **
+## Reference customers: 
 
 Fonus, Royal Swedish Academy of Engineering Sciences, Ericsson, Samhall, Trygg Hansa, Vattenfall, Relacom, Volkswagen, Aviva, Göteborgs Stad, Burlövs Kommun, Novare Leadership Academy
 
