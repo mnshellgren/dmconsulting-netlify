@@ -1,6 +1,6 @@
 ---
 contentType: blog
-path: /Do you have the ability to lead in a digital world?
+path: /Do you have the ability to lead in a digital world
 title: Do you have the ability to lead in a digital world?
 date: '2019-09-20T12:46:12+02:00'
 ---
