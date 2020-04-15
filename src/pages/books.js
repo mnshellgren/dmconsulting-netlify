@@ -12,7 +12,7 @@ const BooksPage = ({ data }) => {
         <div className="container-fluid heading-container">
           <Container>
             <img src={backgroundimg} alt="Åsa walking on the street" />
-            <h1 className='display-4'>Böcker</h1>
+            <h1 className='display-4'>Books</h1>
           </Container>
         </div>
         <Container className="content-rich-page books">

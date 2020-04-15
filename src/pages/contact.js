@@ -11,7 +11,7 @@ const ContactPage = ({ data }) => {
         <div className="container-fluid heading-container">
           <Container>
             <img src={backgroundimg} alt="Åsa walking on the street" />
-            <h1 className='display-4'>Kontakt</h1>
+            <h1 className='display-4'>Contact</h1>
           </Container>
         </div>
         <Container className="content-rich-page about">
@@ -32,8 +32,8 @@ const ContactPage = ({ data }) => {
                 <div className="col-10"><img className="logotype" src={Logotype}/></div>
 
                 <div className="col-12 mt-4">
-                <p className="">mail: <a href="mailto:asa@degermark.nu"> asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
-                    mobil: +46 709 86 24 90 <br></br>
+                <p className="">email: <a href="mailto:asa@degermark.nu"> asa@degermark.nu</a><i className="fa fa-external-link"></i><br></br>
+                    mobile: +46 709 86 24 90 <br></br>
                   linkedin:
                   <a href="http://linkedin.com/in/asadegermark"> linkedin.com/in/asadegermark</a><i className="fa fa-external-link"></i>
                 </p>
