@@ -18,8 +18,8 @@ export default function Template ({ data }) {
         </div>
       <Container className="content-rich-page services" dangerouslySetInnerHTML={{ __html: post.html }} />
         <div className="container col-12 mt-5 pt-5 text-center">
-          <h4 className="font-italic mb-5">För mer detaljer, kontakta mig gärna</h4>
-          <Link to='/contact' className="col-12 main-button ">Ta kontakt →</Link>
+          <h4 className="font-italic mb-5">For more details, don't hesitate to contact me</h4>
+          <Link to='/contact' className="col-12 main-button ">Contact →</Link>
         </div>
     </div>
   )
