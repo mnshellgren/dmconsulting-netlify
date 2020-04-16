@@ -1,7 +1,7 @@
 ---
 contentType: about
 path: /about
-title: Om företaget
+title: About
 ---
 ### Åsa Degermark
 
