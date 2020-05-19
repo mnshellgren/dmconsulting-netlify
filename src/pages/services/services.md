@@ -11,6 +11,10 @@ Leaders and leadership teams need to develop their leadership as their company m
 
 As a coach, I support leaders and teams to upgrade their leadership, their communication and their company culture to become better equipped to lead successfully in a digital world.
 
+## Dynamic Management
+
+The Euro Academy's 6-months program for individual leadership development. We integrate the development in the leaders current assignment. 6 moduls with different focus.  
+
 ## Workshops
 
 2-4 hours of workshop with focus on:
@@ -79,7 +83,7 @@ Provides insights on the consequences when your team members change their workin
 
 Explains the upcoming scenarios and consequences when AI is being implanted broadly and being part of your business. How to prepare yourself and your team and how to act when an AI-robot is part of your team.
 
-## Reference customers: 
+## Reference customers:
 
 Fonus, Royal Swedish Academy of Engineering Sciences, Ericsson, Samhall, Trygg Hansa, Vattenfall, Relacom, Volkswagen, Aviva, Göteborgs Stad, Burlövs Kommun, Novare Leadership Academy
 
