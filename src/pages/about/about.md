@@ -1,7 +1,7 @@
 ---
 contentType: about
 path: /about
-title: Om företaget
+title: About
 ---
 ### Åsa Degermark
 
@@ -9,7 +9,7 @@ I have a big passion and knowledge in communication, leadership and digital tran
 
 I am certified in leadership coaching and digital transformation and have tons of communication experience. I love to work with leaders and leadership teams to support their development in leading successfully in a digital world. I work in close cooperation with Novare Leadership Academy to provide insights and experiences to leaders in training. I'm the author of the book "Digital Leadership" (only in Swedish so far). My next book about leadership and AI is under progress and will be produced in English. 
 
-I love to share my favorite topics in inspirational key notes, either on international stages or in the digital format.
+I love to share my favorite topics in inspirational key notes, either on international stages or in the digital format. I am proud to be part of The Futures Agency speakers network. 
 
 I have extensive experience in creating and executing digital events and I have been awarded twice for “Best digital event”, both in Sweden and in Europe.  
 
