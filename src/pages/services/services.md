@@ -75,6 +75,8 @@ Reference customers: Business Sweden, Bengt Dahlgren AB
 
 Inspiration and new insights are important to motivate groups and individuals to act and develop. I offer key notes speeches in leadership and communication with a digital perspective, both in English and Swedish, both on stage and in digital productions.  I also take on roles as moderator at conferences, live or in the digital format to support a great experience for the audience.
 
+You can see me here (Swedish event): https://youtu.be/Y6WQCJdEmR0
+
 ### Key Notes:
 
 ### "_Embrace the digital consequences for successful leadership"_
