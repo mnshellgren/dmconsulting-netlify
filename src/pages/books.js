@@ -46,17 +46,6 @@ The book includes important knowledge from well-known AI professors
 and experts, who has shared their insights and outlook on AI and its
 implications of leadership. <br></br>
               </p>
-              <div className="row mt-5">
-                <div className="col-xs-1 col-sm-2 col-md-2">
-                  <img src={swish_logo} className="swish" alt="swish logotyp" />
-                </div>
-                <div className="col-xs-10 col-sm-9 col-md-9">
-                  <h3 className="mt-2">Pris: 195 kr</h3>
-                  <p className="mt-4">Swisha till <span className="font-italic">1235950449</span> och märk meddelandet med namn och adress så kommer boken med posten inom ett par dagar.
-                  </p><p>If you don't have Swish, or want to order using another currency, please send an email to asa@degermark.nu.
-                  </p>
-                </div>
-              </div>
             </div>
           </div>
 
@@ -82,15 +71,6 @@ implications of leadership. <br></br>
                 i många olika typer av företag och på flera nivåer.<br></br> Jag hoppas att innehållet inte bara kan inspirera och hjälpa dig till en givande utveckling av
                 ditt ledarskap, utan också påminna om hur viktigt det är med bra ledarskap, oavsett omvärldens svängningar.
               </p>
-              <div className="row mt-5">
-                <div className="col-xs-1 col-sm-2 col-md-2">
-                  <img src={swish_logo} className="swish" alt="swish logotyp" />
-                </div>
-                <div className="col-xs-10 col-sm-9 col-md-9">
-                  <h3 className="mt-2">Pris: 195 kr</h3>
-                  <p className="mt-4">Swisha till <span className="font-italic">1235950449</span> och märk meddelandet med namn och adress så kommer boken med posten inom ett par dagar.</p>
-                </div>
-              </div>
             </div>
           </div>
 
